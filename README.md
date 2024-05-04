@@ -17,7 +17,7 @@ Clone the repository to your local machine:
 git clone https://github.com/itzabhishek96/TODO_List.git
 
 Navigate to the project directory:
-cd todo-app
+cd TODO_List
 
 Install dependencies using npm:
 npm install
