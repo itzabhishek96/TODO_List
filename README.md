@@ -3,18 +3,18 @@
 
 ## Key Features
 
-Allows users to add new tasks
-Users can edit existing tasks
-Provides the ability to delete tasks
-Supports marking tasks as completed
-Dark mode toggle functionality
-Modal to display completed tasks
+Allows users to add new tasks,
+Users can edit existing tasks,
+Provides the ability to delete tasks,
+Supports marking tasks as completed,
+Dark mode toggle functionality,
+Modal to display completed tasks.
 
 
 ## Installation
 
 Clone the repository to your local machine:
-git clone <repository-url>
+git clone https://github.com/itzabhishek96/TODO_List.git
 
 Navigate to the project directory:
 cd todo-app
@@ -37,12 +37,12 @@ To run tests, run the following command
 
 ## Tech Stack
 
-Vite
-React
-React Icons
-React Toastify
-Framer Motion
-Tailwind CSS
+Vite,
+React,
+React Icons,
+React Toastify,
+Framer Motion,
+Tailwind CSS.
 
 ## Authors
 
