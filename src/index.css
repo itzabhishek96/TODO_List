@@ -36,7 +36,8 @@ html {
   position: absolute;
   top: 0;
   left: 0;
-  background-image: url('src/assets/todo3.png'); 
+  background-image: url('src/assets/todo3.png');
+  background: #66bb6a;
   background-size: cover;
 }
 
